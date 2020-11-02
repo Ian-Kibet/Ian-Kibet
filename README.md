@@ -2,14 +2,14 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/Ian-Leo/Ian-Leo/master/gif3.gif" width="500"/>
 
 <h3> 💻 About Me </h3>
-- I’m currently working on an organizations web and native apps &nbsp;
-- &nbsp; A python, node, vue and php legend ⚡ &nbsp;
-- &nbsp; I love exploring new technologies and developing software solutions and quick hacks&nbsp;
-- &nbsp; 🎓 Studying Computer Science, computer programming and Mathematics&nbsp;
-- &nbsp; Android developer, front-end web developer and back-end web developer&nbsp;
-- &nbsp; Enthusiast in cyber Security and Artificial Intelligence &nbsp;
-- &nbsp; I’m looking to collaborate on any project &nbsp;
-- &nbsp; I belive, Anything is possible so surprise me
+- I’m currently working on an organizations web and native apps &nbsp;<br>
+- A python, node, vue and php legend ⚡ &nbsp;<br>
+- I love exploring new technologies and developing software solutions and quick hacks&nbsp;<br>
+- 🎓 Studying Computer Science, computer programming and Mathematics&nbsp;<br>
+- Android developer, front-end web developer and back-end web developer&nbsp;<br>
+- Enthusiast in cyber Security and Artificial Intelligence &nbsp;<br>
+- I’m looking to collaborate on any project &nbsp;<br>
+- I belive, Anything is possible so surprise me
 
 <h3>🛠 Tech Stack</h3>
 
