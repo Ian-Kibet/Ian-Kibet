@@ -3,13 +3,13 @@
 
 <h3> 💻 About Me </h3>
 - I’m currently working on an organizations web and native apps &nbsp;
-- A python, node, vue and php legend ⚡ &nbsp;
-- I love exploring new technologies and developing software solutions and quick hacks&nbsp;
-- 🎓 Studying Computer Science, computer programming and Mathematics&nbsp;
-- Android developer, front-end web developer and back-end web developer&nbsp;
-- Enthusiast in cyber Security and Artificial Intelligence &nbsp;
-- I’m looking to collaborate on any project &nbsp;
-- I belive, Anything is possible so surprise me
+- &nbsp; A python, node, vue and php legend ⚡ &nbsp;
+- &nbsp; I love exploring new technologies and developing software solutions and quick hacks&nbsp;
+- &nbsp; 🎓 Studying Computer Science, computer programming and Mathematics&nbsp;
+- &nbsp; Android developer, front-end web developer and back-end web developer&nbsp;
+- &nbsp; Enthusiast in cyber Security and Artificial Intelligence &nbsp;
+- &nbsp; I’m looking to collaborate on any project &nbsp;
+- &nbsp; I belive, Anything is possible so surprise me
 
 <h3>🛠 Tech Stack</h3>
 
@@ -26,6 +26,8 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ian-Leo&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Ian's Github Stats">
 
 </br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Leo&layout=compact&text_color=daf7dc&bg_color=151515)
 
 <h3> Connect with Me </h3>
 
