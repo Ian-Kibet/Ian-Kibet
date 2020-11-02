@@ -11,4 +11,3 @@
 ## 🙃🙃 Let's begin your project :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Leo&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ian-Leo)
