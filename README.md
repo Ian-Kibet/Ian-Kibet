@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, nice meeting you here
 
 - 🔭 I’m currently working on an organizations web and native apps 
 - 🌱 I’m currently a python superstar
