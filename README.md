@@ -4,8 +4,8 @@
 
 - 💻 &nbsp; Python | Dart | Node | JS | TS
 - 🌐 &nbsp; Android | flutter | HTML | CSS | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Mongo | PouchDB | CouchDB | AWS | GC
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🛢 &nbsp; MySQL | Firebase | Mongo | PouchDB | CouchDB | AWS | GCP
+- 🔧 &nbsp; VS code | Git | Docker | Kubernetes | TravisCI | CI/CD
 
 ## 🙂 Ready to work together?
 
