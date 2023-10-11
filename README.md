@@ -2,10 +2,10 @@
 
 <h4>Here's My 🛠 Tech Stack</h4>
 
-- 💻 &nbsp; Python | Dart | Node | JS | TS
+- 💻 &nbsp; Python | Dart | Node | JS | TS | NextJS | GoLang
 - 🌐 &nbsp; Android | Flutter | React | React Native | HTML | CSS | Bootstrap  
 - 🛢 &nbsp; MySQL | Firebase | Mongo | PouchDB | CouchDB | AWS | GCP
-- 🔧 &nbsp; Git | Docker | Kubernetes | TravisCI | CI/CD
+- 🔧 &nbsp; Git | Docker | Kubernetes | TravisCI | CI/CD | Cypress
 
 ## 🙂 Ready to work together?
 
