@@ -9,10 +9,6 @@
 
 ## 🙂 Ready to work together?
 
-</br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ian-Kibet&layout=compact&text_color=daf7dc&bg_color=151515)
-
 <h3> Connect with Me </h3>
 
 <p align="left">
